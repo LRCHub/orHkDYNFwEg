@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニュー・イヤーズ・デイ",
+  "base_artist": "U2",
+  "createdAt": "2026-02-11T06:26:45.713528Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Year's Day",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/pl_01_New_Year's_Day_U2.txt"
+    }
+  ]
+}
