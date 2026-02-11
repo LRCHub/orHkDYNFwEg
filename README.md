@@ -1,0 +1,33 @@
+# U2 – ニュー・イヤーズ・デイ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+All is quiet on New Year's Day
+A world in white gets underway
+I want to be with you,
+be with you night and day
+Nothing changes
+on New Year's Day
+I...will be with you again
+I...will be with you again
+<♪>
+Under a blood-red sky
+A crowd has gathered in
+black and white
+Arms entwined, the chosen few
+The newspaper says, says
+Say it's true, it's true...
+And we can break through
+Though torn in two
+We can be one
+I...I will begin again
+I...I will begin again
+<♪>
+Oh, oh. Oh, oh. Oh, oh
+I will be with you again
+I will be with you again
+I will be with you again
+I will be with you again
+I will be with you again
+```
